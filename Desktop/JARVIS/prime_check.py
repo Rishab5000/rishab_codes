@@ -6,3 +6,9 @@ if z>1:
             break
         else:
             print("number is prime")
+
+num1=int(input("enter the numebr"))
+num2=int(input("enter the number"))
+sum=num1+num2
+print("the sum is",num1+num2)
+
