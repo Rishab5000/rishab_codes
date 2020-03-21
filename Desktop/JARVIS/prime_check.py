@@ -12,9 +12,6 @@ num2=int(input("enter the number"))
 sum=num1+num2
 print("the sum is",sum)
 
-product=num1*num2
-print("product is",product)
-
 if sum>0:
     print("it is positive")
 
